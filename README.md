@@ -7,7 +7,7 @@
 
 ### About Me
 
-I am a software developer who is passionate about technology, problem-solving, and building things. Currently, I am an Intern Developer at [Bosch](https://www.bosch.com/), where I collaborate developing bots to automate order uploads to SAP (Python), and at the same time, I'm involved in some web projects where I give support, do small changes for the Frontend (Angular), and writing methods on the Backend (Express) and procedures on the DB (MySQL) to get different data about the projects and do some dashboards (PowerBI). tools that automate footprinting tasks using Python. I am also pursuing a degree in Software Computer Engineering at  [ULACIT](https://ulacit.ac.cr/).
+I am a software developer who is passionate about technology, problem-solving, and building things. Currently, I am an Intern Developer at [Bosch](https://www.bosch.com/), where I collaborate developing bots to automate order uploads to SAP (Python), and at the same time, I'm involved in some web projects where I give support, do small changes for the Frontend (Angular), and writing methods on the Backend (Express) and  SQL scripts (MySQL) to get different data about the projects and do some dashboards (PowerBI). I am also pursuing a degree in Software Computer Engineering at  [ULACIT](https://ulacit.ac.cr/).
 
 My favorite coding languages are Python, C#, and TypeScript. I enjoy working in the backend side, with databases and doing data mining as well. Recently, I have been learning about Fullstack Development with the MEAN stack. I am always open to new challenges and learning opportunities.
 
